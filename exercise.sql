@@ -1,3 +1,1 @@
-CREATE DATABASE Sterrenstelsel;
-
-USE Sterrenstelsel;
+CREATE TABLE planeten (naam varchar(255));
